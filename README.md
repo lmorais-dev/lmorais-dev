@@ -21,33 +21,33 @@ Always building applications with the final user experience in mind, striving fo
 ### 📖 Programming Languages
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start">
-    <img alt="Java" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img alt="Rust" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-    <img alt="Golang" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-    <img alt="CSharp" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img alt="TypeScript" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img alt="JavaScript" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img alt="Haskell" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
-    <img alt="Python" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img alt="Java" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img alt="Rust" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+    <img alt="Golang" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+    <img alt="CSharp" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img alt="TypeScript" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img alt="JavaScript" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img alt="Haskell" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
+    <img alt="Python" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
 ### 🏗️ Frameworks & Tools
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start">
-    <img alt="Spring" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img alt="Quarkus" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quarkus.svg" />
-    <img alt="ASP.NET" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-    <img alt="Vue" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-    <img alt="Angular" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-    <img alt="Flask" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+    <img alt="Spring" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img alt="Quarkus" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quarkus.svg" />
+    <img alt="ASP.NET" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img alt="Vue" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img alt="Angular" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+    <img alt="Flask" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 </div>
 
 ### ☁️ Cloud Platforms
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start">
-    <img alt="AWS" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-    <img alt="GCP" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-    <img alt="Oracle" style="max-width: 32px; margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+    <img alt="AWS" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+    <img alt="GCP" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+    <img alt="Oracle" width="32px" style="margin-right: 1rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </div>
 
 ### 📊 Stats
