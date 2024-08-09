@@ -11,7 +11,7 @@ Although I love being a web developer, my career goal is to work creating IoT an
 Always building applications with the final user experience in mind, striving for perfection.
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-evenly; width: 100%;">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC0wCHdoIyedpANBFrsMkGgQ?style=for-the-badge&logo=youtube&labelColor=%23232326&color=%2323e782" alt="Youtube Channel"/>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC0wCHdoIyedpANBFrsMkGgQ?style=for-the-badge&logo=youtube&labelColor=%23232326&color=%23f38ba8" alt="Youtube Channel"/>
     <img alt="Github Stars" src="https://img.shields.io/github/stars/lmorais-dev?style=for-the-badge&logo=polestar&labelColor=%23232634&color=%23e5c890" />
     <img alt="Github Followers" src="https://img.shields.io/github/followers/lmorais-dev?style=for-the-badge&logo=github&labelColor=%23232634&color=%23a6d189" />
 </div>
